@@ -1,4 +1,4 @@
-# Credit_Scoring_Id_x_partners_project
+# Credit_Scoring_ID_X_Partners_Project
 
 ## Background
 At this time, machine learning modeling will be carried out to predict whether someone is able to pay off credit or not.
